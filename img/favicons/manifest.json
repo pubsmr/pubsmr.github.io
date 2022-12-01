@@ -1,0 +1,17 @@
+{
+ "name": "Эволюция материалов для письма",
+ "icons": [
+  {
+   "src": "/favicon-72x72.png",
+   "sizes": "72x72",
+   "type": "image/png",
+   "density": "1.5"
+  },
+  {
+   "src": "/favicon-96x96.png",
+   "sizes": "96x96",
+   "type": "image/png",
+   "density": "2.0"
+  }
+ ]
+}
